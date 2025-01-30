@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TestRunner" type="JUnit" factoryName="JUnit">
+    <module name="nbp-test-api" />
+    <option name="PACKAGE_NAME" value="pl.tmobile.recruitment.runners" />
+    <option name="MAIN_CLASS_NAME" value="pl.tmobile.recruitment.runners.TestRunner" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
