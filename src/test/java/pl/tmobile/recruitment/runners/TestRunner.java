@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "pl.tmobile.recruitment.steps",
         plugin = {"pretty", "json:target/cucumber-report.json", "html:target/cucumber-report.html"},
-        monochrome = true // Lepsza czytelność logów w konsoli
+        monochrome = true
 )
 public class TestRunner {
 }
